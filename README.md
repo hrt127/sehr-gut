@@ -8,13 +8,7 @@ I'm frequently accredited with speaking schizo - let's super sayan nicer schizo 
 
 ## Project Status
 Current stage: **Usable (try with caution)**  
-
-- ✅ Core prototype deployed (HTML + Vercel)  
-- 🍌 Streamlit app with tabs (Decode, Comebacks, Log) — works but needs refinement  
-- 🍌 Expanding slang DB + personalization — partially explored, not stable yet  
-- 🍌 Preparing platform integrations (Discord, Farcaster, etc.) — ideas in motion, not ready  
-- ‼️ Expect bugs and ongoing iteration as I learn and adjust
-
+- ✅ First fakeprototype deployed (HTML + Vercel)  
 
 ---
 
@@ -47,16 +41,20 @@ cd sehr-gut
 - Internal prototype — not ready for visitors  
 
 ### 🍌 Next Iteration (coming soon)  
-- Slang DB expansion  
+- Streamlit app with tabs (Decode, Comebacks, Log) — works but needs refinement  
+- Expanding slang DB + personalization — partially explored, not stable yet  
+- Preparing platform integrations (Discord, Farcaster, etc.) — ideas in motion, not ready  
+- Expect bugs and ongoing iteration as I learn and adjust  
 - Comeback generator with spice levels 🌶️  
 - Interaction log to grow style over time  
 - Roadmap alignment with README vision  
 
+---
 
 ##  Features
 - Decode slang/context across languages (German, French, Japanese, Russian, Korean, Italian)
-- Generate comebacks with spice levels (Safe, Medium, Nuclear 🌶️)
-- Meme awareness so you don’t drop outdated cringe
+- Generate comebacks with spice levels (Safe maybe who knows, why are you running, rawdog )
+- Meme awareness
 - Interaction log to grow your style over time
 
 ---
