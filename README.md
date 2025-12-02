@@ -1,53 +1,78 @@
 # sehr-gut
 ## florida ze germans r cumming
 
-Wanna have fun with friends/weirdoes and chatting to them.  
-It’s a me‑chat translate/enhance thing. Basic, silly, but growing into something useful.
+Wanna have fun meaningful with friends/weirdoes and chatting to them.  
+I'm frequently accredited with speaking schizo - let's super sayan nicer schizo goes abroad. It’s a me‑chat translate/enhance thing. Basic, silly, but growing into something useful.
 
 ---
 
-##  Overview
-This project is an evolving experiment in chat translation + enhancement + not being a circlejerked
-None of the existing templates/tools fit what I wanted, so this is my own take, expect nothing but a stupid trying in full view of an adoring public. 
+## 📊 Project Status
+Current stage: **Usable (try with caution)**  
+
+- ✅ Core prototype deployed (HTML + Vercel)  
+- 🍌 Streamlit app with tabs (Decode, Comebacks, Log) — works but needs refinement  
+- 🍌 Expanding slang DB + personalization — partially explored, not stable yet  
+- 🍌 Preparing platform integrations (Discord, Farcaster, etc.) — ideas in motion, not ready  
+- ‼️ Expect bugs and ongoing iteration as I learn and adjust
+
 
 ---
 
-##  Getting Started
-Clone the repo and jump into whichever version/step feels right:
+## 🌱 Overview
+**sehr-gut** is a contextual banter assistant — not just a translator.  
+It decodes slang, memes, and layered meaning in online conversations, then suggests playful comebacks with different spice levels.  
+
+Think henlo for the shcizo let's get on base 2:  
+- **Not** “How do I say hello?” 
+- **But** “They just said *Ehrenmann* — are they roasting me or complimenting me?”  
+
+---
 
 ```bash
 git clone https://github.com/yourname/sehr-gut.git
 cd sehr-gut
+streamlit run app.py   # if using the Streamlit app
+Or simply open `index.html` in your browser for the lightweight version.  
+Live demo: https://sehr-gut.vercel.app
 ```
 
 ---
 
-## Features
-please go away
-- Translate/enhance chat messages schizo is what
-- A way to help have fun
-- Meme‑flavored outputs
-- Roadmap of upcoming schizo
+## ✨ Features
+- Decode slang/context across languages (German, French, Japanese, Russian, Korean, Italian)
+- Generate comebacks with spice levels (Safe, Medium, Nuclear 🌶️)
+- Meme awareness so you don’t drop outdated cringe
+- Interaction log to grow your style over time
 
-## Log/Process (optional but fun fml cooked)
-- Creating this thing/readme
-- Understanding the context and scope possible and allowing for it in doing inevitably stuck loopy structure beach. 
-- Going back to do things proper but f me. come back to this how it looks doing it.
-- Vercel app from index html file
+---
 
-## Roadmap
-- Getting the initial thing done with claude as something usable other than in the browse as an artifact. Which is gh repo html and importing into vercell
-- Understanding myself and what I want and what it can encompass plus tools ever changing and how I'd actually find it useful to me. Make available to others interested in schizo
-- Designed full proper flow with perplexity and start inoplementing it (this plan bs to evolve at that time)
+## 🗺️ Roadmap
+- [x] HTML prototype deployed on Vercel
+- [ ] Streamlit app with tabs (Decode, Comebacks, Log)
+- [ ] Expand slang DB + SQLite logging
+- [ ] Add personalization features
+- [ ] Platform expansion → X, Discord, Telegram, Farcaster, YouTube, Email/Form
+- [ ] Tone calibration (choose how hard to go, 1–10 scale)
+- [ ] Banter mode → roast back, not just translate
 
-## Touch me
-1. claudioooooo vercelli
-2. 
+---
 
+## 📖 Log / Process
+This README doubles as a diary (including proper Github use for more than just me) of how it’s being built:
+- 👀 Started with a simple HTML file → deployed on Vercel
+- 🍌 Added/ing Streamlit app with tabs (Decode, Comebacks, Log)
+- 🪢 Expanding slang DB + SQLite logging
+- 🪢 Working on personalization and platform integrations
+
+---
 
 ## Contributing
-This is mostly for me, one day someday wen I'm cockvibedcooking competent in this world of yours, if you want to jump in do u no u:
-- Fork → tweak → PR
+This is mostly for me and fun for now, but if you want to jump in:
+- Fork the repo
+- Make your tweaks
+- Open a pull request
 
-## License  
-MIT - leave me alone pls if you don't wanna help
+---
+
+## License 
+MIT - have mercy lord
