@@ -1,12 +1,12 @@
 # sehr-gut
 ## florida ze germans r cumming
 
-Wanna have fun meaningful with friends/weirdoes and chatting to them.  
-I'm frequently accredited with speaking schizo - let's super sayan nicer schizo goes abroad. It’s a me‑chat translate/enhance thing. Basic, silly, but growing into something useful.
+It's me wanna have fun meaningful with friends/weirdoes and chatting to them.
+I'm frequently accredited with speaking schizo - let's super sayan nicer schizo goes abroad. It’s a me‑chat translate/enhance thing. Basic, silly, but growing into something useful. 
 
 ---
 
-## 📊 Project Status
+## Project Status
 Current stage: **Usable (try with caution)**  
 
 - ✅ Core prototype deployed (HTML + Vercel)  
@@ -18,7 +18,7 @@ Current stage: **Usable (try with caution)**
 
 ---
 
-## 🌱 Overview
+## Overview
 **sehr-gut** is a contextual banter assistant — not just a translator.  
 It decodes slang, memes, and layered meaning in online conversations, then suggests playful comebacks with different spice levels.  
 
@@ -28,17 +28,32 @@ Think henlo for the shcizo let's get on base 2:
 
 ---
 
+##  Getting Started  
+
 ```bash
-git clone https://github.com/yourname/sehr-gut.git
+git clone https://github.com/hrt127/sehr-gut.git
 cd sehr-gut
-streamlit run app.py   # if using the Streamlit app
-Or simply open `index.html` in your browser for the lightweight version.  
-Live demo: https://sehr-gut.vercel.app
+# No backend, no app — just open index.html in your browser
 ```
+⚠️ Internal deploy only — not ready for visitors Live demo (prototype): 
 
 ---
 
-## ✨ Features
+## 🔄 Current vs Next  
+
+### 🎂 Current Deploy  
+- Basic HTML translator only  
+- Hosted on Vercel  
+- Internal prototype — not ready for visitors  
+
+### 🍌 Next Iteration (coming soon)  
+- Slang DB expansion  
+- Comeback generator with spice levels 🌶️  
+- Interaction log to grow style over time  
+- Roadmap alignment with README vision  
+
+
+##  Features
 - Decode slang/context across languages (German, French, Japanese, Russian, Korean, Italian)
 - Generate comebacks with spice levels (Safe, Medium, Nuclear 🌶️)
 - Meme awareness so you don’t drop outdated cringe
@@ -47,7 +62,8 @@ Live demo: https://sehr-gut.vercel.app
 ---
 
 ## 🗺️ Roadmap
-- [x] HTML prototype deployed on Vercel
+- [x] HTML prototype of a prototype of an announcement go away it's my first deployed on Vercel
+- [ ] Updated vision aligned HTML deployed on Vercel
 - [ ] Streamlit app with tabs (Decode, Comebacks, Log)
 - [ ] Expand slang DB + SQLite logging
 - [ ] Add personalization features
@@ -60,7 +76,7 @@ Live demo: https://sehr-gut.vercel.app
 ## 📖 Log / Process
 This README doubles as a diary (including proper Github use for more than just me) of how it’s being built:
 - 👀 Started with a simple HTML file → deployed on Vercel
-- 🍌 Added/ing Streamlit app with tabs (Decode, Comebacks, Log)
+- 🍌 To add Streamlit app with tabs (Decode, Comebacks, Log)
 - 🪢 Expanding slang DB + SQLite logging
 - 🪢 Working on personalization and platform integrations
 
@@ -75,4 +91,4 @@ This is mostly for me and fun for now, but if you want to jump in:
 ---
 
 ## License 
-MIT - have mercy lord
+MIT — Copyright (c) 2025 hrt127
